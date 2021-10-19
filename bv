@@ -11,3 +11,25 @@ left: 312px;
 top: 500px;
 
 background: #121212;
+
+
+
+
+<div class="main__number-timer">
+    <div class="main__number-day">
+      <h2 class="number">18</h2>
+      <description class="day"></description>
+    </div>
+    <div class="main__number-hours">
+      <h2 class="number">18</h2>
+      <description class="hours"></description>
+    </div>
+    <div class="main__number-minutes">
+      <h2 class="number">18</h2>
+      <description class="minutes"></description>
+    </div>
+    <div class="main__number-seconds">
+      <h2 class="number">18</h2>
+      <description class="seconds"></description>
+    </div>
+    </div>
